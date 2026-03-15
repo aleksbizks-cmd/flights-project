@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aleksbizks-cmd.github.io/flights-project/sitemap.xml
