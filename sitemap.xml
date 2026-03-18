@@ -14,19 +14,19 @@
   </url>
 
   <url>
-    <loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow-bangkok.html</loc>
+    <loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow/bangkok.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow-phuket.html</loc>
+    <loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow/phuket.html</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow-bali.html</loc>
+    <loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow/bali.htm</loc>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
