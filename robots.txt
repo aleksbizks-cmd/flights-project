@@ -1,3 +1,6 @@
 User-agent: *
 Allow: /
+
+Host: https://aleksbizks-cmd.github.io
+
 Sitemap: https://aleksbizks-cmd.github.io/flights-project/sitemap.xml
