@@ -1,11 +1,22 @@
 <!DOCTYPE html>
-<html>
+<html lang="ru">
 
 <head>
 <meta charset="UTF-8">
-<title>Дешёвые авиабилеты по маршрутам</title>
-
+<title>Маршруты дешёвых авиабилетов</title>
 <meta name="description" content="Список маршрутов с дешёвыми авиабилетами из России в Азию.">
+
+<!-- JSON-LD Breadcrumbs для Hub -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position":1, "name":"Главная", "item":"https://aleksbizks-cmd.github.io/flights-project/"},
+    {"@type": "ListItem", "position":2, "name":"Маршруты", "item":"https://aleksbizks-cmd.github.io/flights-project/routes/"}
+  ]
+}
+</script>
 
 </head>
 
@@ -13,22 +24,21 @@
 
 <h1>Маршруты дешёвых авиабилетов</h1>
 
-<p>
-Здесь публикуются маршруты с самыми дешёвыми авиабилетами.
-</p>
+<p>Здесь публикуются маршруты с самыми дешёвыми авиабилетами.</p>
 
 <ul>
+  <li><a href="/flights-project/routes/moscow/bangkok.html">Москва → Бангкок</a></li>
+  <li><a href="/flights-project/routes/moscow/phuket.html">Москва → Пхукет</a></li>
+  <li><a href="/flights-project/routes/moscow/bali.html">Москва → Бали</a></li>
+  <li><a href="/flights-project/routes/spb/bangkok.html">Санкт-Петербург → Бангкок</a></li>
+</ul>
 
-<li><a href="/flights-project/routes/moscow-bangkok.html">Москва → Бангкок</a></li>
-
-<li><a href="/flights-project/routes/moscow-phuket.html">Москва → Пхукет</a></li>
-
-<li><a href="/flights-project/routes/moscow-bali.html">Москва → Бали</a></li>
-
-<li><a href="/flights-project/routes/spb-bangkok.html">Санкт-Петербург → Бангкок</a></li>
-
+<!-- Дополнительные ссылки на Hub/HowTo/Legal -->
+<p>Полезные инструкции:</p>
+<ul>
+  <li><a href="/flights-project/howto/how-to-catch-deals.html">Как ловить ошибки тарифов и акции</a></li>
+  <li><a href="/flights-project/legal/privacy.html">Политика конфиденциальности</a></li>
 </ul>
 
 </body>
-
 </html>
