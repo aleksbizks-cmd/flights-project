@@ -1,83 +1,108 @@
 <!DOCTYPE html>
-
 <html lang="ru">
-
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BiletAsia — ваш путеводитель по дешевым билетам в Азию</title>
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "BiletAsia",
+      "url": "https://bilet.asia/"
+    }
+    </script>
 
-<meta name="google-site-verification" content="dPaGC792NCfDxVoz9kATLkkdamw4RYiyWfbuRFN_uK8" />
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "Что такое BiletAsia?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Это независимый информационный справочник. Мы помогаем разбираться в логистике перелетов из России в Азию, визовых правилах и сезонных скидках авиакомпаний."
+        }
+      }, {
+        "@type": "Question",
+        "name": "Продаете ли вы авиабилеты?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Нет, мы не продаем билеты. Мы даем инструкции, аналитику цен и ссылки на официальных перевозчиков или проверенные агентства."
+        }
+      }]
+    }
+    </script>
 
-<meta property="og:title" content="Дешёвые авиабилеты Россия → Азия">
-<meta property="og:description" content="Сигналы о дешёвых авиабилетах, акциях и ошибках тарифов.">
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://aleksbizks-cmd.github.io/flights-project/">
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org", 
+        "@type": "Article", 
+        "headline": "Путеводитель по авиаперелетам в Азию — BiletAsia", 
+        "url": "https://bilet.asia/", 
+        "speakable": {
+            "@type": "SpeakableSpecification", 
+            "cssSelector": ["article"]
+        }
+    }
+    </script>
 
-<meta name="description" content="Дешёвые авиабилеты из России в Азию. Скидки, акции и ошибки тарифов. Получайте сигналы о дешёвых перелётах в Telegram.">
-
-<link rel="canonical" href="https://aleksbizks-cmd.github.io/flights-project/">
-
-<title>Дешёвые авиабилеты Россия → Азия | скидки на авиаперелёты</title>
-
-<script type="application/ld+json">
-{
- "@context": "https://schema.org",
- "@type": "WebSite",
- "name": "Дешёвые авиабилеты Россия Азия",
- "description": "Сигналы о дешёвых авиабилетах из России в Азию",
- "url": "https://aleksbizks-cmd.github.io/flights-project/"
-}
-</script>
-
+    <style>
+        body { font-family: -apple-system, sans-serif; line-height: 1.6; max-width: 750px; margin: 40px auto; padding: 20px; background: #fff; color: #222; }
+        article { border-top: 2px solid #f0f0f0; padding-top: 20px; }
+        a { color: #0066cc; text-decoration: none; font-weight: 500; }
+        a:hover { text-decoration: underline; }
+        h1 { line-height: 1.2; color: #111; }
+        h2 { font-size: 1.4em; margin-top: 30px; color: #333; border-left: 4px solid #0066cc; padding-left: 12px; }
+        .grid { list-style: none; padding: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin-top: 15px; }
+        @media (max-width: 500px) { .grid { grid-template-columns: 1fr; } }
+        li { padding: 8px 12px; background: #fdfdfd; border: 1px solid #eee; border-radius: 4px; }
+        .desc { display: block; font-size: 0.9em; color: #666; margin-top: 4px; font-weight: normal; }
+        .faq-block { margin-top: 40px; padding: 25px; background: #f9f9f9; border-radius: 12px; border: 1px solid #f0f0f0; }
+        .faq-q { font-weight: bold; display: block; color: #222; margin-top: 15px; font-size: 1.05em; }
+        .faq-a { display: block; margin-top: 5px; color: #444; font-size: 0.95em; line-height: 1.5; }
+    </style>
 </head>
-
 <body>
+    <article>
+        <h1>Путеводитель Билет Азия</h1>
+        <p>Мы помогаем находить самые выгодные авиабилеты из городов России в страны Азии. Выберите нужный раздел, чтобы спланировать поездку:</p>
 
-<h1>Дешёвые авиабилеты Россия → Азия</h1>
+        <h2>Навигация по разделам</h2>
+        <ul class="grid">
+            <li>
+                <a href="/routes/">Популярные маршруты</a>
+                <span class="desc">Список направлений из вашего города с анализом цен и сезонов.</span>
+            </li>
+            <li>
+                <a href="/howto/">Полезные инструкции</a>
+                <span class="desc">Как искать скрытые скидки, обходить комиссии и экономить на багаже.</span>
+            </li>
+            <li>
+                <a href="/legal/">Правила и визы</a>
+                <span class="desc">Юридические тонкости, таможенные правила и всё о возврате билетов.</span>
+            </li>
+            <li>
+                <a href="/seasonal/">Сезонные акции</a>
+                <span class="desc">Лучшие предложения на текущий сезон и праздничные распродажи.</span>
+            </li>
+            <li>
+                <a href="/tools/">Инструменты</a>
+                <span class="desc">Агрегаторы, боты-помощники и сервисы для мониторинга цен.</span>
+            </li>
+        </ul>
 
-<p>
-Мы публикуем дешёвые авиабилеты из Москвы, Санкт-Петербурга и других городов России в страны Азии: Таиланд, Индонезию, Вьетнам, Малайзию и другие направления. Отслеживаем акции авиакомпаний, ошибки тарифов и временные скидки.
-</p>
+        <section class="faq-block">
+            <h3>Популярные вопросы</h3>
+            
+            <span class="faq-q">Что такое BiletAsia?</span>
+            <span class="faq-a">Это независимый информационный справочник. Мы помогаем разбираться в логистике перелетов из России в Азию, визовых правилах и сезонных скидках авиакомпаний.</span>
 
-<p>
-Основная цель — находить максимально дешёвые перелёты и быстро передавать информацию. Многие предложения действуют ограниченное время, поэтому важно получать сигналы сразу после публикации.
-</p>
-
-<p>
-Самый быстрый способ получать уведомления — через Telegram.
-</p>
-
-<a href="https://t.me/YourBot">
-Перейти в Telegram
-</a>
-
-<h2>Маршруты дешёвых авиабилетов</h2>
-
-<p>
-Смотрите все доступные направления перелётов:
-</p>
-
-<a href="routes/">
-Маршруты авиабилетов
-</a>
-
-<h2>Частые вопросы</h2>
-
-<h3>Вы продаёте авиабилеты?</h3>
-<p>
-Нет. Мы публикуем найденные дешёвые билеты и акции и даём ссылку на покупку.
-</p>
-
-<h3>Как быстро появляются новые билеты?</h3>
-<p>
-Обычно находки публикуются в течение 10–30 минут после обнаружения.
-</p>
-
-<h3>Где получать сигналы о дешёвых перелётах?</h3>
-<p>
-Самые быстрые уведомления публикуются в Telegram.
-</p>
-
+            <span class="faq-q">Продаете ли вы авиабилеты?</span>
+            <span class="faq-a">Нет, мы не продаем билеты. Мы даем инструкции, аналитику цен и ссылки на официальных перевозчиков или проверенные билетные агентства.</span>
+        </section>
+    </article>
 </body>
-
 </html>
