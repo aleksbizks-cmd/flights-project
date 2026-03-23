@@ -1,34 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>http://localhost:8000/howto/baggage-rules/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/howto/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/howto/refund-rules/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/howto/save-money/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/legal/customs-ru/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/legal/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/legal/insurance-asia/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/legal/visa-thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/chelyabinsk/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/ekaterinburg/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/irkutsk/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/kazan/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/khabarovsk/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/krasnoyarsk/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/moscow/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/novosibirsk/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/perm/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/samara/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/spb/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/ufa/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/routes/vladivostok/thailand/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/seasonal/black-friday/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/seasonal/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/seasonal/may-holidays/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/seasonal/new-year-asia/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/tools/aggregators/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/tools/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/tools/telegram-bots/</loc><lastmod>2026-03-20</lastmod></url>
-  <url><loc>http://localhost:8000/tools/travel-apps/</loc><lastmod>2026-03-20</lastmod></url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/howto/baggage-rules/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/howto/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/howto/refund-rules/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/howto/save-money/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/legal/customs-ru/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/legal/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/legal/insurance-asia/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/legal/visa-thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/chelyabinsk/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/ekaterinburg/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/irkutsk/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/kazan/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/khabarovsk/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/krasnoyarsk/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/moscow/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/novosibirsk/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/perm/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/samara/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/spb/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/ufa/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/routes/vladivostok/thailand/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/seasonal/black-friday/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/seasonal/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/seasonal/may-holidays/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/seasonal/new-year-asia/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/tools/aggregators/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/tools/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/tools/telegram-bots/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
+<url>
+<loc>https://aleksbizks-cmd.github.io/flights-project/tools/travel-apps/</loc>
+<lastmod>2026-03-20</lastmod>
+</url>
 </urlset>
